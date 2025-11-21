@@ -1,0 +1,4 @@
+first_name  = "Nuryagdy"
+last_name = "Akmurzayev"
+whole_name = first_name + " " + last_name
+print(whole_name);
